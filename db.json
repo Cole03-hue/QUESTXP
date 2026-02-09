@@ -1,0 +1,86 @@
+{
+    "subscriptions": [
+        {
+            "id": 1,
+            "name": "Free Trial",
+            "price": 0.00,
+            "features": [
+                "Basic Access"
+            ],
+            "annualOption": false
+        },
+        {
+            "id": 2,
+            "name": "Family",
+            "price": 4.99,
+            "features": [
+                "5 Users", 
+                "Shared Storage"
+            ],
+            "annualOption": false
+        },
+        {
+            "id": 3,
+            "name": "Family Pro",
+            "price": 10.99,
+            "features": [
+                "10 Users",
+                "Unlimited Storage"
+            ],
+            "annualOption": true
+        },
+        {
+            "id": 4,
+            "name": "Business",
+            "price": 19.99,
+            "features": [
+                "Admin Panel",
+                "Email Support"
+            ],
+            "annualOption": false
+        },
+        {
+            "id": 5,
+            "name": "Business Plus",
+            "price": 29.99,
+            "features": [
+                "Custom Domain",
+                "24/7 Support"
+            ],
+            "annualOption": true
+        },
+        {
+            "id": 6,
+            "name": "Ultimate Gamer",
+            "price": 14.99,
+            "features": [
+                "Animated Avatars",
+                "Exclusive Loot Shop Items",
+                "Double XP Weekends"
+            ],
+            "annualOption": true
+        },
+        {
+            "id": 7,
+            "name": "Education",
+            "price": 49.99,
+            "features": [
+                "Classroom Dashboard",
+                "Student Progress Reports",
+                "Bulk User Invites"
+            ],
+            "annualOption": true
+        },
+        {
+            "id": 8,
+            "name": "Lifetime Legend",
+            "price": 199.99,
+            "features": [
+                "One-time Payment",
+                "All Future Pro Features",
+                "Legacy Badge"
+            ],
+            "annualOption": false
+        }
+    ]
+}
